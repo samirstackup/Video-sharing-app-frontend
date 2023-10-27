@@ -1,3 +1,5 @@
 # Video sharing app frontend
  the design for the video sharing app
-![Screenshot 2023-10-27 121241](https://github.com/samirstackup/Video-sharing-app-frontend/assets/140374818/afd12112-7db3-4ad5-8a0c-e0ab40dd9b24)
+
+
+![Screenshot 2023-10-27 121241](https://github.com/samirstackup/Video-sharing-app-frontend/assets/140374818/1c8d1e55-fb02-489b-b46c-b19a613aac84)
